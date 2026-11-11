@@ -4,6 +4,8 @@
 
 <b>One run and enjoy</b>
 
+<a href="https://store.steampowered.com/app/5245810/ForgeTax/">Get the game on Steam</a>
+
 <br><br>
 
 ![Platform](https://img.shields.io/badge/platform-Windows-0078D6?style=flat-square)
