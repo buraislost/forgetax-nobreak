@@ -34,8 +34,4 @@ The overlay only shows in windowed or borderless mode.
 
 Run `build.bat` (needs Visual Studio with the C++ tools). The output lands in `bin\`.
 
-<br>
-
-<div align="center">
-<sub>Antivirus may complain, since it edits the game's memory while it runs.</sub>
-</div>
+Antivirus may complain, since it edits the game's memory while it runs.
