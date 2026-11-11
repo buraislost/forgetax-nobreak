@@ -8,7 +8,6 @@
 
 ![Platform](https://img.shields.io/badge/platform-Windows-0078D6?style=flat-square)
 ![Language](https://img.shields.io/badge/C%2B%2B-x64-00599C?style=flat-square)
-![Made by](https://img.shields.io/badge/made%20by-bura-F5A623?style=flat-square)
 
 </div>
 
@@ -39,6 +38,4 @@ Run `build.bat` (needs Visual Studio with the C++ tools). The output lands in `b
 
 <div align="center">
 <sub>Antivirus may complain, since it edits the game's memory while it runs.</sub>
-<br>
-<sub>made by bura</sub>
 </div>
