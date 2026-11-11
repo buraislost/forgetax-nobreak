@@ -1,12 +1,15 @@
-﻿# ForgeTax No-Break
+﻿<h1 align="center">ForgeTax</h1>
+<p align="center"><b>One run and enjoy</b></p>
 
-made by bura
+<p align="center">made by bura</p>
+
+---
 
 Sets the break chance in ForgeTax to 0%. Press F8 in game to turn it on or off.
 
 ## Use
 
-One run and enjoy: start `autoinject.exe`, then open the game. It attaches by itself.
+Start `autoinject.exe`, then open the game. It attaches by itself.
 The small overlay in the corner only shows in windowed or borderless mode.
 
 ## Build
