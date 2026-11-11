@@ -1,19 +1,44 @@
-﻿<h1 align="center">ForgeTax</h1>
-<p align="center"><b>One run and enjoy</b></p>
+﻿<div align="center">
 
-<p align="center">made by bura</p>
+<h1>ForgeTax</h1>
 
----
+<b>One run and enjoy</b>
 
-Sets the break chance in ForgeTax to 0%. Press F8 in game to turn it on or off.
+<br><br>
+
+![Platform](https://img.shields.io/badge/platform-Windows-0078D6?style=flat-square)
+![Language](https://img.shields.io/badge/C%2B%2B-x64-00599C?style=flat-square)
+![Made by](https://img.shields.io/badge/made%20by-bura-F5A623?style=flat-square)
+
+</div>
+
+<br>
+
+## Features
+
+| | |
+|---|---|
+| **No Break** | Swords stop breaking |
+| **Auto inject** | Attaches on its own when the game starts |
+| **Overlay** | Small status tag in the corner of the game |
+| **Hotkey** | `F8` toggles it on and off |
 
 ## Use
 
-Start `autoinject.exe`, then open the game. It attaches by itself.
-The small overlay in the corner only shows in windowed or borderless mode.
+1. Run `autoinject.exe` and leave it open
+2. Open the game
+3. Enjoy
+
+The overlay only shows in windowed or borderless mode.
 
 ## Build
 
 Run `build.bat` (needs Visual Studio with the C++ tools). The output lands in `bin\`.
 
-Antivirus may complain, since it edits the game's memory while it runs.
+<br>
+
+<div align="center">
+<sub>Antivirus may complain, since it edits the game's memory while it runs.</sub>
+<br>
+<sub>made by bura</sub>
+</div>
